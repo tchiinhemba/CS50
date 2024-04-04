@@ -12,7 +12,7 @@ int main(void)
     }
     while (height > 8 || height < 1);
 
-    for (int i = 1; i <= height; i++)
+    for (int i = 1; i <= height; i++) //height
     {
 
         for (int j = height - 1; j >= i; j--)
